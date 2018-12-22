@@ -16,3 +16,4 @@ for a full overview.
 - Created a simple command registration and routing system
 - Created a help system
 - Added example commands: help, echo, whoami
+- very simple (bad) data saving in a json file
